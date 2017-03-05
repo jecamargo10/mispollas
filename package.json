@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "react-node-starter",
   "version": "0.2.0",
   "description": "an example for deploying a React + NodeJS app to Heroku",
@@ -8,7 +8,7 @@
     "start": "node server.js",
     "postinstall": "webpack -p --config webpack.prod.config.js"
   },
-  "author": "",
+  "author": "Javier",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",
